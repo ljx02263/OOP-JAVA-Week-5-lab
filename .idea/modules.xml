@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExamplesAbstractClassesandInterfaces/MyOnlineShopUsingAbstractClass-solution/MyOnlineShopUsingAbstractClass-solution.iml" filepath="$PROJECT_DIR$/ExamplesAbstractClassesandInterfaces/MyOnlineShopUsingAbstractClass-solution/MyOnlineShopUsingAbstractClass-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamplesAbstractClassesandInterfaces/MyOnlineShopUsingInterface-solution/MyOnlineShopUsingInterface-solution.iml" filepath="$PROJECT_DIR$/ExamplesAbstractClassesandInterfaces/MyOnlineShopUsingInterface-solution/MyOnlineShopUsingInterface-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP JAVA Week 5 lab.iml" filepath="$PROJECT_DIR$/.idea/OOP JAVA Week 5 lab.iml" />
+    </modules>
+  </component>
+</project>
